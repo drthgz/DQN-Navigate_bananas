@@ -29,7 +29,9 @@ Deep Q-Learning was used the implementation of this solution. To take advantage 
 
 # Plot of rewards
 A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment. 
-![Plot of Score over Episodes][output.png]
+
+![Plot of Score over Episodes](output.png)
+
 A score of greater than 13 was solved in 478 episodes. Final score: 14.03.
 The environment was solved in fewer than 1800 episodes!
 
